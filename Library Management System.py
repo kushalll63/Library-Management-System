@@ -1,5 +1,3 @@
-# Library Management System
-
 books = []
 members = []
 x = []
